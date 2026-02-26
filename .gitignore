@@ -8,6 +8,7 @@ dl/
 
 # 配置文件忽略
 Config/auto.conf
+Config/.last_build.conf
 .auto_config
 
 # 临时文件
